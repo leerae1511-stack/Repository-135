@@ -1,0 +1,9 @@
+{
+  "name": "Tool Pocket Generator V135",
+  "short_name": "Pocket Generator",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#111111",
+  "icons": []
+}
